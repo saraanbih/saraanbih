@@ -17,14 +17,9 @@ I am passionate about building solutions to real-world problems through code and
 - **Algorithms and Data Structures**: Sharpening my skills in solving algorithmic problems and learning about data structures
 - **Tools**: Familiar with **Git**, **Postman**, **Visual Studio**, and **Visual Studio Code**
 
-## Fun Facts
-- I love tackling new coding challenges and improving my problem-solving abilities
-- I enjoy reading **tech blogs** and keeping up with **backend development** trends
-
-## Let's Connect!
+## Connect!
 Feel free to reach out if you want to chat about **backend development**, **problem-solving**, or any cool tech topics!
 
 - 📧 **[Email](nabihsara8@gmail.com)**
 - 💼 **[LinkedIn](https://www.linkedin.com/in/sara-nabih-4168212a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**
 
-Thanks for visiting! 😊
