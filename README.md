@@ -1,4 +1,4 @@
-# Hello! I'm Sara Nabih 👋
+# Hello! I'm Sara Nabih 
 
 Welcome to my GitHub profile!
 
@@ -8,14 +8,14 @@ I'm currently learning the **basics** of programming and developing my **problem
 I am passionate about building solutions to real-world problems through code and technology, and I'm excited to see where this journey will take me!
 
 ## My Skills
-- 🖥 **Programming**: Currently focusing on **backend development**
-- 🌐 **Technologies**: Working with **.Net**, **C#**
-- 🧠 **Problem-Solving**: Improving my problem-solving abilities through coding challenges and algorithm-based tasks
+- **Programming**: Currently focusing on **backend development**
+- **Technologies**: Working with **.Net**, **C#**
+- **Problem-Solving**: Improving my problem-solving abilities through coding challenges and algorithm-based tasks
 
 ## Current Learning Path
-- 💻 **Backend Development**: Learning about REST APIs, databases, and server-side technologies
-- 🔄 **Algorithms and Data Structures**: Sharpening my skills in solving algorithmic problems and learning about data structures
-- 🛠 **Tools**: Familiar with **Git**, **Postman**, **Visual Studio**, and **Visual Studio Code**
+- **Backend Development**: Learning about REST APIs, databases, and server-side technologies
+- **Algorithms and Data Structures**: Sharpening my skills in solving algorithmic problems and learning about data structures
+- **Tools**: Familiar with **Git**, **Postman**, **Visual Studio**, and **Visual Studio Code**
 
 ## Fun Facts
 - I love tackling new coding challenges and improving my problem-solving abilities
