@@ -20,6 +20,6 @@ I am passionate about building solutions to real-world problems through code and
 ## Connect!
 Feel free to reach out if you want to chat about **backend development**, **problem-solving**, or any cool tech topics!
 
-- 📧 **[Email](nabihsara8@gmail.com)**
-- 💼 **[LinkedIn](https://www.linkedin.com/in/sara-nabih-4168212a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**
+- **[Email](nabihsara8@gmail.com)**
+- **[LinkedIn](https://www.linkedin.com/in/sara-nabih-4168212a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**
 
